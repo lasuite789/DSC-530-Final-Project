@@ -1,0 +1,5 @@
+format,uncompressed,gzip,snappy
+jsonl,,,
+Avro ,18.7 MB,,
+Parquet,1.88 MB,,
+Protocol Buffers,,,
